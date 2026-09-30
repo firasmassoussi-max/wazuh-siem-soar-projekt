@@ -1,0 +1,13 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Large raw evidence - use Git LFS or Releases instead
+*.mp4
+*.mov
+*.mkv
+
+# Temporary files
+*.tmp
+*.log
